@@ -1,0 +1,6 @@
+# This is a file whose elements are ignored when pushing code to github\
+# through git
+# This is important since files such as node modules are usually large in size (50mb)
+
+
+/node_modules
