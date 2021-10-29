@@ -1,0 +1,3 @@
+Deductive arguments are arguments whereby if the truth of the 
+first proposition is accepted, by logical expression the truth value of the second proposition
+must also be accepted.
